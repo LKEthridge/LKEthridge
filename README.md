@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LKEthridge
+- 👋 Hi, I’m Lydia Ethridge (@LKEthridge)
 - 👀 I’m interested in data-based decision-making that makes the world a better place.
 - 🌱 I’m currently learning Gradient Descent Training through the TripleTen Data Science bootcamp.
 - 👩🏼‍🎓 See what I've already learned here on my GitHub!
