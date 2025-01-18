@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LKEthridge
 - 👀 I’m interested in data-based decision-making that makes the world a better place.
-- 🌱 I’m currently learning Gradient Descent Training.
+- 🌱 I’m currently learning Gradient Descent Training through the TripleTen Data Science bootcamp.
+- 👩🏼‍🎓 See what I've already learned by checking my "TripleTen Projects" repository.
 - 📫 You can reach me at: lydia.k.ethridge@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I have taught newcomer English learners K-8 for the past six years.
