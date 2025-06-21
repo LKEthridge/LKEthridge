@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Lydia Ethridge (@LKEthridge)
 - 👀 I’m interested in data-based decision-making that makes the world a better place.
-- 🌱 I’m currently working on a project using Time Series through the TripleTen Data Science bootcamp.
-- 👩🏼‍🎓 See what I've already learned here on my GitHub!
+- 👩🏼‍🎓 I recently completed TripleTen's Data Science bootcamp.
 - 📫 You can reach me at: lydia.k.ethridge@gmail.com
 - 🙋🏼‍♀️ I am actively seeking new employment opportunities. 
 - 😄 Pronouns: she/her/hers
