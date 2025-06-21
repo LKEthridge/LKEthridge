@@ -2,6 +2,7 @@
 - 👀 I’m interested in data-based decision-making that makes the world a better place.
 - 👩🏼‍🎓 I recently completed TripleTen's Data Science bootcamp.
 - 👩🏽‍💻 I am skilled in Python, SQL, Computer Vision, Statistics and Probability, Data Visualization, Time Series Analysis, and Natural Language Processing.
+- 👩🏼‍🏫 I am currently working with an education nonprofit to analyze their historical data and build a machine learning model that will help them to predict characteristics of students who are successful in their program.
 - 📫 You can reach me at: lydia.k.ethridge@gmail.com
 - 🙋🏼‍♀️ I am actively seeking new employment opportunities. 
 - 😄 Pronouns: she/her/hers
